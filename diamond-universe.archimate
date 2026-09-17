@@ -49,7 +49,7 @@
     <element xsi:type="archimate:BusinessObject" name="Наряд-заказ на исследование" id="id-5055e94059bf4f46b24614a025cacc7a"/>
     <element xsi:type="archimate:BusinessObject" name="Отчет об исследовании" id="id-cd7b09df7d8143dfb8f84b2f362d7d81"/>
     <element xsi:type="archimate:BusinessObject" name="Цифровая копия алмаза" id="id-1cb29d24d89c4310bb0a330a41b651ef"/>
-    <element xsi:type="archimate:BusinessProcess" name="Проведение онлайн-аукционов" id="id-02dc2bc769104d1193636a512293008e"/>
+    <element xsi:type="archimate:BusinessProcess" name="Проведение онлайн-торгов" id="id-02dc2bc769104d1193636a512293008e"/>
     <element xsi:type="archimate:BusinessObject" name="Протокол онлайн-торгов" id="id-fc4e6b5ff9c541e7a13bd1b1fc47e2da"/>
     <element xsi:type="archimate:BusinessObject" name="Взаиморасчеты с клиентами" id="id-b17e319f325942d690075ea7ef3d05ea"/>
     <element xsi:type="archimate:BusinessObject" name="Взаиморасчеты с поставщиками" id="id-f6a45f893e0c40348a27b11954861581"/>
@@ -70,8 +70,8 @@
     <element xsi:type="archimate:ApplicationCollaboration" name="ИС Лаборатория" id="id-c77148400ab74315ae9a386723204a08" profiles="id-4a79f538bd474911a94df1d215a1d542">
       <documentation>Исследования алмазов (внешняя)</documentation>
     </element>
-    <element xsi:type="archimate:ApplicationCollaboration" name="ИС Онлайн-аукцион" id="id-a33602a5a85144e19a84f1a902e27953" profiles="id-4a79f538bd474911a94df1d215a1d542">
-      <documentation>Проведение онлайн-аукционов</documentation>
+    <element xsi:type="archimate:ApplicationCollaboration" name="ИС Онлайн торги" id="id-a33602a5a85144e19a84f1a902e27953" profiles="id-4a79f538bd474911a94df1d215a1d542">
+      <documentation>Автоматизация онлайн-торгов</documentation>
     </element>
   </folder>
   <folder name="Technology &amp; Physical" id="id-dffe63a5d193455fbbbd09ed5028e388" type="technology"/>
